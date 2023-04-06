@@ -62,7 +62,7 @@ struct ListView: View {
     }
 }
 
-struct ListView Previews: PreviewProvider {
+struct ListView_Previews: PreviewProvider {
     static var previews: some View {
         ListView()
     }
